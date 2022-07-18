@@ -1,4 +1,4 @@
-<h1>Projeto para aprende as funcinalidade básicas do GIT e GITHUB</h1>
+<h1>Projeto para aprender as funcinalidade básicas do GIT e GITHUB</h1>
 
 > Status do projeto: Finalizado
 

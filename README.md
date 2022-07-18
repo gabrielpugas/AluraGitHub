@@ -1,6 +1,6 @@
 <h1>Projeto para aprende as funcinalidade básicas do GIT e GITHUB</h1>
 
-> Status do projeto: Em desenvolvimento
+> Status do projeto: Finalizado
 
 Para rodar esse projeto na sua máquina, por favor, digite:
 
